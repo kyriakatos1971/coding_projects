@@ -1,1 +1,1 @@
-/Users/kyriakoskyriakatos/github/kyriakatos1971/calculator/target/debug/calculator: /Users/kyriakoskyriakatos/github/kyriakatos1971/calculator/src/main.rs
+/Users/kyriakoskyriakatos/coding_projects/Rust_Examples/calculator/target/debug/calculator: /Users/kyriakoskyriakatos/coding_projects/Rust_Examples/calculator/src/main.rs
