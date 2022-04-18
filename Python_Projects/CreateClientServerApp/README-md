@@ -1,0 +1,25 @@
+# Create a Client and Server application using Python
+
+## Setup & Installation
+
+Make sure you have the latest version of Python installed.
+
+```bash
+git clone <repo-url>
+```
+
+
+## Running The App
+
+1. Open a terminal and run the following command:
+```bash
+python3 Local_server.py
+```
+
+2. Open another terminal and run the following command:
+```bash
+python3 Local_client.py
+```
+
+
+NOTE: You may use more than one client terminals!
