@@ -1,0 +1,25 @@
+# Demo Client Server application using Python
+
+## Setup & Installation
+
+Make sure you have the latest version of Python installed.
+
+```bash
+git clone <repo-url>
+```
+
+
+
+## Running The App
+
+1.Open a terminal instance and run
+```bash
+python3 Local_server.py
+```
+
+2. .Open a second terminal instance and run
+
+```bash
+python3 Local_client.py
+```
+NOTE: you may open as many client instances as you like!!!
